@@ -19,6 +19,9 @@
         <li class="nav-item">
             <a class="nav-link text-white" href="ver_tareas.php">Ver Tareas</a>
         </li>
+        <li class="nav-item">
+            <a class="nav-link text-white" href="en_proceso.php">Tareas en progreso</a>
+        </li>
     </ul>
 </nav>
 <body>
